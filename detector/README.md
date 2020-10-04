@@ -1,0 +1,1 @@
+The bug detection component
